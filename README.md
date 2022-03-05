@@ -1,5 +1,5 @@
 # Hi, I'm Maiara :D
-##### Sou apaixonada pelo mundo de desenvolvimento back-end e segurança.
+##### Sou apaixonada pelo mundo de desenvolvimento back-end e cibersegurança.
 
 ## Contact
 
