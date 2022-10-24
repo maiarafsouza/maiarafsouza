@@ -1,5 +1,5 @@
 # Hi, I'm Maiara :D
-##### Sou apaixonada pelo mundo de desenvolvimento back-end e cibersegurança.
+##### Sou apaixonada pelo mundo de dados.
 
 ## Contact
 
@@ -10,9 +10,9 @@
   
 ## About me
 
-Sou estudante de Segurança da Informação no Centro Universitário Senac e estou cursando a formação em Python e Django na Codar.me.
+Sou estudante de Desin na Universidade São Judas Tadeu e estou cursando a formação em Python e Django na Codar.me.
 
-Expertise em Python, Flask, Django, Testes unitários (unittest), Postman e Linux.
+Expertise em Python, Pandas, Seaborn, Excel e PowerBI.
 
 Noções de SQL, HTML e redes de computadores.
 
