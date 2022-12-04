@@ -1,5 +1,5 @@
 # Hi, I'm Maiara :D
-##### Sou apaixonada pelo mundo de dados.
+##### Sou apaixonada pelo mundo de dados e estratégia de negócios.
 
 ## Contact
 
