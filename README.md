@@ -10,11 +10,9 @@
   
 ## About me
 
-Sou estudante de Desin na Universidade São Judas Tadeu e estou cursando a formação em Python e Django na Codar.me.
-
-Expertise em Python, Pandas, Seaborn, Excel e PowerBI.
-
-Noções de SQL, HTML e redes de computadores.
+Sou formada em Desing na Universidade São Judas Tadeu. Tenho interesse em análise e visualização de dados para tomada de decisões estratégicas.
+Experiência com Python, Pandas, Seaborn, SQL, Excel, PowerBI e RAWGraphs.
+Noções de HTML e redes de computadores.
 
   
 <p align="center">
