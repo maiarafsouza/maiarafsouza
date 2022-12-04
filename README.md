@@ -10,7 +10,10 @@
   
 ## About me
 
-Sou formada em Desing na Universidade São Judas Tadeu. Tenho interesse em análise e visualização de dados para tomada de decisões estratégicas.
+Sou formada em Design na Universidade São Judas Tadeu. 
+
+Tenho interesse em análise e visualização de dados para tomada de decisões estratégicas.
+
 Experiência com Python, Pandas, Seaborn, SQL, Excel, PowerBI e RAWGraphs.
 Noções de HTML e redes de computadores.
 
