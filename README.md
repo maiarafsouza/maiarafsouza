@@ -10,12 +10,15 @@
   
 ## About me
 
-Sou formada em Design na Universidade São Judas Tadeu. 
+Olá, me chamo Maiara! Sou formada em Design pela Universidade São Judas, gosto de trabalhar com análise e visualização de dados para tomada de decisões estratégicas.
 
-Tenho interesse em análise e visualização de dados para tomada de decisões estratégicas.
+Competências:
 
-Experiência com Python, Pandas, Seaborn, SQL, Excel, PowerBI e RAWGraphs.
-Noções de HTML e redes de computadores.
+- Manipulação e análise de dados com Python, Pandas, NumPy, Excel e Google Sheets
+- Visualização e storytelling de dados com Seaborn, PowerBI, Tableau, RAW Graphs e Adobe Illustrator
+- Consulta e modelagem de banco de dados com SQL e NoSQL (MongoDB)
+- Extração e coleta de dados por meio de webscraping com BeautifulSoup
+- Estatística: estatística descritiva, levantamento e validação de hipóteses, regressão linear
 
   
 <p align="center">
